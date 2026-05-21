@@ -5,4 +5,4 @@ Following a structured path to become job-ready as a Frontend Developer.
 
 ## Topics Covered
 - Day 1 - Variables, Data Types, Functions
-- Day 2 - Arrays, push, pop, forEach, map
+- Day 2 - Arrays, push, pop, forEach, map, Objects, dot notation, array of objects
